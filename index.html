@@ -34,10 +34,10 @@
         },
         decoder: {
           readers: [
-            'ean_reader',
-            'ean_8_reader',
-          ],
-        }
+            "i2of5_reader"
+          ]
+        },
+
       }, function (err) {
         if (err) {
           console.log(err);
