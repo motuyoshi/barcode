@@ -1,4 +1,3 @@
-/*
 #photo-area.viewport {
   height: 288px;
 }
@@ -11,4 +10,3 @@
 #photo-area.viewport canvas.drawingBuffer, video.drawingBuffer {
   margin-left: -352px;
 }
-*/
